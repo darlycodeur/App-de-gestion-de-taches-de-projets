@@ -23,7 +23,7 @@ app/src/main/res/menu/
 app/src/main/res/color/
 app/src/main/AndroidManifest.xml
 app/build.gradle
-app/build
+app/build/*
 build.gradle
 settings.gradle
 gradle.properties
