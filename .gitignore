@@ -14,6 +14,7 @@ app/build/
 
 
 
+
 app/src/main/java/com/taskflow/app/ui/
 app/src/main/res/layout/
 app/src/main/res/drawable/
@@ -24,16 +25,6 @@ app/src/main/res/mipmap-xxhdpi/
 app/src/main/res/mipmap-xxxhdpi/
 app/src/main/res/mipmap-anydpi-v26/
 
-app/src/main/java/com/taskflow/app/MainActivity.java
-app/src/main/java/com/taskflow/app/TaskFlowApplication.java
-app/src/main/res/values/
-app/src/main/res/menu/
-app/src/main/res/color/
-app/src/main/AndroidManifest.xml
-app/build.gradle
-build.gradle
-settings.gradle
-gradle.properties
-gradlew
-gradlew.bat
-gradle/
+app/src/main/java/com/taskflow/app/database/
+app/src/main/java/com/taskflow/app/repository/
+app/src/main/java/com/taskflow/app/viewmodel/

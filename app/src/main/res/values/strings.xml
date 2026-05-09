@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TaskFlow</string>
+    <string name="dashboard">Accueil</string>
+    <string name="projects">Projets</string>
+    <string name="employees">Équipe</string>
+    <string name="add">Ajouter</string>
+    <string name="taches">Tâches</string>
+    <string name="categories">Catégories</string>
+    <string name="statistiques">Statistiques</string>
+    <string name="no_tasks">Aucune tâche</string>
+    <string name="no_projects">Aucun projet</string>
+    <string name="no_employees">Aucun employé</string>
+    <string name="add_first_task">Créez votre première tâche</string>
+    <string name="add_first_project">Créez votre premier projet</string>
+    <string name="add_first_employee">Ajoutez votre premier employé</string>
+</resources>
