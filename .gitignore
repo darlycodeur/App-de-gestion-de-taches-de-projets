@@ -5,12 +5,12 @@
 /.idea
 .DS_Store
 /build
+app/build/
 /captures
 .externalNativeBuild
 .cxx
 *.apk
 *.aab
-
 
 app/src/main/java/com/taskflow/app/database/
 app/src/main/java/com/taskflow/app/repository/
@@ -23,7 +23,6 @@ app/src/main/res/menu/
 app/src/main/res/color/
 app/src/main/AndroidManifest.xml
 app/build.gradle
-app/build/*
 build.gradle
 settings.gradle
 gradle.properties
