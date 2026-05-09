@@ -1,4 +1,0 @@
-com.taskflow.app.test.app-androidTest-0 C:\Users\Niyondiko Joffre\OneDrive - KIT Hub\Desktop\Examen DAM\Application de Gestion de Taches\app\build\generated\res\resValues\androidTest\debug
-com.taskflow.app.test.app-mergeDebugAndroidTestResources-1 C:\Users\Niyondiko Joffre\OneDrive - KIT Hub\Desktop\Examen DAM\Application de Gestion de Taches\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
-com.taskflow.app.test.app-mergeDebugAndroidTestResources-2 C:\Users\Niyondiko Joffre\OneDrive - KIT Hub\Desktop\Examen DAM\Application de Gestion de Taches\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
-com.taskflow.app.test.app-merged_res-3 C:\Users\Niyondiko Joffre\OneDrive - KIT Hub\Desktop\Examen DAM\Application de Gestion de Taches\app\build\intermediates\merged_res\debugAndroidTest

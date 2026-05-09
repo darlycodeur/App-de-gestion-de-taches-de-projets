@@ -1,7 +1,0 @@
-#Sun May 10 00:03:56 CAT 2026
-base.0=C\:\\Users\\Niyondiko Joffre\\OneDrive - KIT Hub\\Desktop\\Examen DAM\\Application de Gestion de Taches\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
-base.1=C\:\\Users\\Niyondiko Joffre\\OneDrive - KIT Hub\\Desktop\\Examen DAM\\Application de Gestion de Taches\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes2.dex
-path.0=classes.dex
-path.1=classes2.dex
-renamed.0=classes.dex
-renamed.1=classes2.dex
