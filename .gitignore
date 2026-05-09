@@ -12,9 +12,17 @@ app/build/
 *.apk
 *.aab
 
-app/src/main/java/com/taskflow/app/database/
-app/src/main/java/com/taskflow/app/repository/
-app/src/main/java/com/taskflow/app/viewmodel/
+
+
+app/src/main/java/com/taskflow/app/ui/
+app/src/main/res/layout/
+app/src/main/res/drawable/
+app/src/main/res/mipmap-hdpi/
+app/src/main/res/mipmap-mdpi/
+app/src/main/res/mipmap-xhdpi/
+app/src/main/res/mipmap-xxhdpi/
+app/src/main/res/mipmap-xxxhdpi/
+app/src/main/res/mipmap-anydpi-v26/
 
 app/src/main/java/com/taskflow/app/MainActivity.java
 app/src/main/java/com/taskflow/app/TaskFlowApplication.java
