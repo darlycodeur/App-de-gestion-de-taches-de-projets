@@ -125,7 +125,7 @@ app/src/main/java/com/taskflow/app/
 - Une tâche peut avoir plusieurs commentaires (1:N)
 - Une tâche peut appartenir à une catégorie (N:1)
 
-## 🚀 Installation
+
 
 ### Prérequis
 - Android Studio Arctic Fox ou supérieur
